@@ -1,3 +1,6 @@
 [submodule "submodules/FRV2100"]
 	path = submodules/FRV2100
 	url = https://github.com/PulseRain/FRV2100.git
+[submodule "peripherals/PulseRain_rtl_lib"]
+	path = peripherals/PulseRain_rtl_lib
+	url = https://github.com/PulseRain/PulseRain_rtl_lib.git
