@@ -1,6 +1,3 @@
-[submodule "submodules/Hardware_Bootloader"]
-	path = submodules/Hardware_Bootloader
-	url = https://github.com/PulseRain/Hardware_Bootloader.git
 [submodule "submodules/FRV2100"]
 	path = submodules/FRV2100
 	url = https://github.com/PulseRain/FRV2100.git
