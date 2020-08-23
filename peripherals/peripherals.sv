@@ -161,7 +161,9 @@ module peripherals (
                         WB_RD_DAT_O <= gpio_in_stable;
                     end
                     
-                  
+                    `GPIO_OUT_ADDR : begin
+                        WB_RD_DAT_O <= gpio_out;
+                    end
                     
                     
                     default : begin
